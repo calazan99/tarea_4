@@ -9,7 +9,7 @@ a.brand img {
 }
 .profile h2, .skills h2, .work h2, .resume h2 {
 	font-weight:normal;
-	color: #39D084;
+	color: #000;
 }
 /***** Profile *****/
 	.profile h1 {
@@ -98,7 +98,9 @@ ul.social-icons li a:hover {
 	background:greenyellow;
 }
 .skills .html {
-	background:skyblue;
+
+	background: #897300;
+
 }
 .skills .css {
 	background:red;
@@ -153,7 +155,7 @@ ul.social-icons li a:hover {
 }
 .html2 {
 	width:75%;
-	background:#f04949;
+	background: #897300;
 	-moz-animation:jquery 2s ease-out;
 	-webkit-animation:jquery 2s ease-out;
 }
@@ -239,7 +241,7 @@ ul.work-images li:first-child {
 }
 ul.work-images li div {
 	background:url(../img/eye.png) 50% 50% no-repeat;
-	background-color: #f04949;
+	background-color:  #897300;
 	-webkit-transition: all 0.2s linear;
 	-moz-transition: all 0.2s linear;
 	-o-transition: all 0.2s linear;
