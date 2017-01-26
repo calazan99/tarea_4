@@ -84,7 +84,7 @@ ul.social-icons li a:hover {
 	-moz-border-radius: 50%;
 	border-radius: 50%;
 	text-align:center;
-	border:8px solid #203748;
+	border:8px solid black;
 	float:right;
 	-webkit-transition: all 0.2s linear;
 	-moz-transition: all 0.2s linear;
@@ -92,16 +92,18 @@ ul.social-icons li a:hover {
 	transition: all 0.2s linear;
 }
 .skills .ps {
-	background:#30a5dc;
+	background:pink;
 }
 .skills .ai {
-	background:#ee742b;
+	background:greenyellow;
 }
 .skills .html {
+
 	background: #897300;
+
 }
 .skills .css {
-	background:#39d084;
+	background:red;
 }
 .skills .ps:hover, .skills .ai:hover, .skills .html:hover, .skills .css:hover {
 	border:8px solid #fff;
